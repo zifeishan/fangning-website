@@ -8,7 +8,9 @@
 */
 
 .whiteboard-link {
-	color: #39454b;
+	color: #98c593;
+	/*#39454b;*/
+	text-decoration: unset;
 }
 
 .title-link {
